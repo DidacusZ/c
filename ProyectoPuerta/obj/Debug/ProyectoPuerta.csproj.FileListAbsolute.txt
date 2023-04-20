@@ -1,0 +1,20 @@
+C:\Users\Alberto\Desktop\ProyectoPuerta\ProyectoPuerta\bin\Debug\ProyectoPuerta.exe.config
+C:\Users\Alberto\Desktop\ProyectoPuerta\ProyectoPuerta\bin\Debug\ProyectoPuerta.exe
+C:\Users\Alberto\Desktop\ProyectoPuerta\ProyectoPuerta\bin\Debug\ProyectoPuerta.pdb
+C:\Users\Alberto\Desktop\ProyectoPuerta\ProyectoPuerta\obj\Debug\ProyectoPuerta.csprojResolveAssemblyReference.cache
+C:\Users\Alberto\Desktop\ProyectoPuerta\ProyectoPuerta\obj\Debug\ProyectoPuerta.exe
+C:\Users\Alberto\Desktop\ProyectoPuerta\ProyectoPuerta\obj\Debug\ProyectoPuerta.pdb
+C:\Altair\__PruebaCodigos\Ev4 POO\Proyecto1 Puerta\ProyectoPuerta\bin\Debug\ProyectoPuerta.exe.config
+C:\Altair\__PruebaCodigos\Ev4 POO\Proyecto1 Puerta\ProyectoPuerta\bin\Debug\ProyectoPuerta.exe
+C:\Altair\__PruebaCodigos\Ev4 POO\Proyecto1 Puerta\ProyectoPuerta\bin\Debug\ProyectoPuerta.pdb
+C:\Altair\__PruebaCodigos\Ev4 POO\Proyecto1 Puerta\ProyectoPuerta\obj\Debug\ProyectoPuerta.csprojAssemblyReference.cache
+C:\Altair\__PruebaCodigos\Ev4 POO\Proyecto1 Puerta\ProyectoPuerta\obj\Debug\ProyectoPuerta.csproj.CoreCompileInputs.cache
+C:\Altair\__PruebaCodigos\Ev4 POO\Proyecto1 Puerta\ProyectoPuerta\obj\Debug\ProyectoPuerta.exe
+C:\Altair\__PruebaCodigos\Ev4 POO\Proyecto1 Puerta\ProyectoPuerta\obj\Debug\ProyectoPuerta.pdb
+C:\Altair\__PruebaCodigos\Ev4 POO\P43 Puerta y Portón\P43a.1 Proyecto1 Puerta\_Enunciados\Proyecto Puerta (esquema)\ProyectoPuerta\bin\Debug\ProyectoPuerta.exe.config
+C:\Altair\__PruebaCodigos\Ev4 POO\P43 Puerta y Portón\P43a.1 Proyecto1 Puerta\_Enunciados\Proyecto Puerta (esquema)\ProyectoPuerta\bin\Debug\ProyectoPuerta.exe
+C:\Altair\__PruebaCodigos\Ev4 POO\P43 Puerta y Portón\P43a.1 Proyecto1 Puerta\_Enunciados\Proyecto Puerta (esquema)\ProyectoPuerta\bin\Debug\ProyectoPuerta.pdb
+C:\Altair\__PruebaCodigos\Ev4 POO\P43 Puerta y Portón\P43a.1 Proyecto1 Puerta\_Enunciados\Proyecto Puerta (esquema)\ProyectoPuerta\obj\Debug\ProyectoPuerta.csprojAssemblyReference.cache
+C:\Altair\__PruebaCodigos\Ev4 POO\P43 Puerta y Portón\P43a.1 Proyecto1 Puerta\_Enunciados\Proyecto Puerta (esquema)\ProyectoPuerta\obj\Debug\ProyectoPuerta.csproj.CoreCompileInputs.cache
+C:\Altair\__PruebaCodigos\Ev4 POO\P43 Puerta y Portón\P43a.1 Proyecto1 Puerta\_Enunciados\Proyecto Puerta (esquema)\ProyectoPuerta\obj\Debug\ProyectoPuerta.exe
+C:\Altair\__PruebaCodigos\Ev4 POO\P43 Puerta y Portón\P43a.1 Proyecto1 Puerta\_Enunciados\Proyecto Puerta (esquema)\ProyectoPuerta\obj\Debug\ProyectoPuerta.pdb

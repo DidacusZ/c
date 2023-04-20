@@ -1,0 +1,7 @@
+C:\Altair\__PruebaCodigos\Ev4 POO\Proyecto1 Puerta\ProyectoPuerta\bin\Release\ProyectoPuerta.exe.config
+C:\Altair\__PruebaCodigos\Ev4 POO\Proyecto1 Puerta\ProyectoPuerta\bin\Release\ProyectoPuerta.exe
+C:\Altair\__PruebaCodigos\Ev4 POO\Proyecto1 Puerta\ProyectoPuerta\bin\Release\ProyectoPuerta.pdb
+C:\Altair\__PruebaCodigos\Ev4 POO\Proyecto1 Puerta\ProyectoPuerta\obj\Release\ProyectoPuerta.csprojAssemblyReference.cache
+C:\Altair\__PruebaCodigos\Ev4 POO\Proyecto1 Puerta\ProyectoPuerta\obj\Release\ProyectoPuerta.csproj.CoreCompileInputs.cache
+C:\Altair\__PruebaCodigos\Ev4 POO\Proyecto1 Puerta\ProyectoPuerta\obj\Release\ProyectoPuerta.exe
+C:\Altair\__PruebaCodigos\Ev4 POO\Proyecto1 Puerta\ProyectoPuerta\obj\Release\ProyectoPuerta.pdb
